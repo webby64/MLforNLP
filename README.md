@@ -1,1 +1,1 @@
-# MLforNLP
+# StockNet Price dataset
